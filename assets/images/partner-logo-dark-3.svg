@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="400px" height="300px" viewBox="0 0 400 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.3 (12072) - http://www.bohemiancoding.com/sketch -->
+    <title>partner-logo-dark-3</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="OLED-LandingPage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="partner-logo-dark-3" sketch:type="MSArtboardGroup" stroke="#2C2E37">
+            <g id="Shape-2-Copy-+-Shape-+-Shape-Copy-+-Bitmap" sketch:type="MSLayerGroup" transform="translate(55.000000, 130.000000)">
+                <g id="Shape-+-Shape-Copy-+-Cryptonomex">
+                    <g id="Shape-+-Shape-Copy" stroke-linecap="round" stroke-width="3.76358394" sketch:type="MSShapeGroup" stroke-linejoin="round">
+                        <g>
+                            <path d="M49.6464345,42.9146341 C39.7322606,52.7236934 23.6217282,52.7236934 13.7075544,42.9146341 C3.79338053,33.1055749 3.79338053,17.1658537 13.7075544,7.35679443 C23.6217282,-2.45226481 39.7322606,-2.45226481 49.6464345,7.35679443" id="Shape"></path>
+                            <path d="M2.34479103e-13,45.9518095 L27.0682514,20.9780278 L38.6394123,30.1896686 L63.0215013,10.1287619" id="Shape-Copy"></path>
+                        </g>
+                    </g>
+                    <text id="Cryptonomex" stroke-width="2" sketch:type="MSTextLayer" font-family="Moon" font-size="19.3600008" font-weight="bold" letter-spacing="6.05000013" fill="#2C2E37">
+                        <tspan x="78.5416667" y="33">Cryptonomex</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
